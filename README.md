@@ -37,9 +37,6 @@ No começo, algumas partes foram bem desafiadoras (como configurar o CORS e ente
 
 Agora, tenho uma **aplicação funcional** que me permite cadastrar, visualizar e deletar usuários de maneira **dinâmica**. Esse projeto me deu ainda mais vontade de aprender e melhorar a qualidade do meu código cada vez mais. 🏆
 
-Se você quiser conferir o código da **API**, dá uma olhada no repositório do back-end abaixo! 👇
-
-[Repositório Back-End](URL do repositório)
 
 Espero que esse projeto ajude tanto você quanto me ajudou a aprender mais sobre integração de sistemas! 🚀
 
